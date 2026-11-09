@@ -1,0 +1,11 @@
+{
+  "name": "github-mcp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
